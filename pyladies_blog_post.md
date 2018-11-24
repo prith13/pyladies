@@ -25,7 +25,7 @@ PyLadies has 87 chapters worldwide with 36K+ members represented in almost all c
 	<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/pj0c" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-##PyLadies Chapters: USA & Canada
+## PyLadies Chapters: USA & Canada
 The top 5 PyLadies Chapters are: 
 1. [San Fransisco](https://www.meetup.com/PyLadiesSF/) - 5.1K
 2. [New York City](https://www.meetup.com/NYC-PyLadies/) - 3.2K
@@ -37,7 +37,7 @@ The top 5 PyLadies Chapters are:
 	<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/Ve0c" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-##PyLadies Chapters: Outside of North America
+## PyLadies Chapters: Outside of North America
 The 5 chapters with the highest membership outside the USA & Canada are:
 1. [Sao Paolo](https://www.meetup.com/PyLadiesSP/) - 1.7K
 2. [London](https://www.meetup.com/PyLadiesLondon/) - 1.6K
@@ -45,7 +45,7 @@ The 5 chapters with the highest membership outside the USA & Canada are:
 4. [Lagos](https://www.meetup.com/pyladiesnigeria) - 1.4K
 5. [Pune](https://www.meetup.com/PyLadies-Pune/) - 1.2K
 
-##Countries
+## Countries
 The 5 top countries include:
 1. USA
 2. Brazil
@@ -53,10 +53,10 @@ The 5 top countries include:
 4. United Kingdom
 5. Spain
 
-##Connecting with PyLadies
+## Connecting with PyLadies
 
 ### Twitter
-Follow us on Twitter at [@pyladies](https://twitter.com/pyladies). There is also a Twitter [list of chapters](https://twitter.com/pyladies/lists/pyladies-locations) 
+Follow us on Twitter at [@pyladies](https://twitter.com/pyladies). There is also a Twitter [list of chapters](https://twitter.com/pyladies/lists/pyladies-locations).  
 
 ### Slack
 We have a global PyLadies Slack group, along with groups for specific chapters. To join, send an email request to info@pyladies.com with a brief note.
@@ -65,8 +65,8 @@ We have a global PyLadies Slack group, along with groups for specific chapters. 
 A list of all chapters and their [meetup group links](https://www.pyladies.com/locations/) can be found on our website.
 
 ### Facebook Pages/Groups
-Certain chapters have FB pages as well. Links to the pages can be found on our [website](https://www.pyladies.com/locations/) 
+Certain chapters have FB pages as well. Links to the pages can be found on our [website](https://www.pyladies.com/locations/).  
 
-##Data & Tools
-- The data was stored in Google Spreadsheets
+## Data & Tools
+- The data was stored in Google Spreadsheets. 
 - Google DataStudio was used to produce the visualizations. 
