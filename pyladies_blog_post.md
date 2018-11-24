@@ -1,7 +1,7 @@
 
-<p>
+<div class='iframe_container'>
 	<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/Kb0c" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>	
+</div>	
 
 ## History and Mission
 
@@ -20,7 +20,10 @@ The newest chapter as of now is [Hamburg, Germany](https://www.meetup.com/PyLadi
 PyLadies has 87 chapters worldwide with 36K+ members represented in almost all continents and 33 different countries.
 
 ## Map of PyLadies Chapters
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/pj0c" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<div class='iframe_container'>
+	<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/pj0c" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 ##PyLadies Chapters: USA & Canada
 The top 5 PyLadies Chapters are: 
@@ -30,8 +33,9 @@ The top 5 PyLadies Chapters are:
 4. [Boston](https://www.meetup.com/PyLadies-Boston/) - 1.3K
 5. [Washington DC](https://www.meetup.com/dc-pyladies/)  - 1.1K
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/Ve0c" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<div class='iframe_container'>
+	<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/Ve0c" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 ##PyLadies Chapters: Outside of North America
 The 5 chapters with the highest membership outside the USA & Canada are:
